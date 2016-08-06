@@ -29,8 +29,7 @@ $ gulp serve
 ```
 
 ## Technologies
-* Node.js
-* Node Package Manager
+* Node.js (npm)
 * Gulp
 * Bower
 * Jquery
