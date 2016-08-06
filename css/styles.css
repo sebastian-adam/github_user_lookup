@@ -8,19 +8,11 @@ body {
 
 header {
   text-align: center;
+  margin: 20px 0;
 }
 
-#finding {
-  display: none;
-}
-
-#last-songs {
-  max-height: 400px;
-  overflow: hidden;
-}
-
-#skip-song {
-  display: none;
+#search-button {
+  margin: 10px 0;
 }
 
 img {
