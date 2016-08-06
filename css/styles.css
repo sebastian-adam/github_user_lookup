@@ -4,6 +4,7 @@ body {
   max-width: 50em;
   line-height: 1.5;
   padding: 1em 1em;
+  color: #2d2d2d
 }
 
 header {
@@ -12,10 +13,24 @@ header {
 }
 
 #search-button {
-  margin: 10px 0;
+  margin: 10px 0 20px;
+}
+
+#error{
+  text-align: center;
+}
+
+#user {
+  text-align: center;
+  padding-right: 10px;
+}
+
+.user-name {
+  text-align: center;
 }
 
 img {
   width: 95.5px;
   height: 95.5px;
+  text-align: center;
 }
